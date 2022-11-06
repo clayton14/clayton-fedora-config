@@ -1,0 +1,3 @@
+[Unit]
+Description=Activated set up and update service
+Wants=setup-and-update.service
