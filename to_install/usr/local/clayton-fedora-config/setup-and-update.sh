@@ -9,3 +9,5 @@ sudo -u clay flatpak update --user
 
 pkcon update --noninteractive --only-download
 pkcon offline-trigger --noninteractive
+
+
