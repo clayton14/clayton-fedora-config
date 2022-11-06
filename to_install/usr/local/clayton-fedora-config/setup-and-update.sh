@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 systemctl set-default graphical.target
-dnf install neovim
+dnf install --assumeyes neovim
 
 
