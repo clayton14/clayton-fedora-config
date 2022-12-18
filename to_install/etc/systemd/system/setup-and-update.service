@@ -6,4 +6,4 @@ FailureAction=reboot
 SuccessAction=reboot
 
 [Service]
-ExecStart=/usr/local/clayton-fedora-config/setup-and-update.sh
+ExecStart=/usr/local/clayton-liunx-config/setup-and-update.sh
